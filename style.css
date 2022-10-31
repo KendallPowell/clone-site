@@ -7,6 +7,14 @@
   width: 325px;
 }
 
+.pic-smaller {
+  height: 225px;
+  width: 225px;
+  background-size: cover;
+  padding: 5px;
+  margin-left: 5px;
+}
+
 .orange {
   background-color: orangered;
   height: 25px;
